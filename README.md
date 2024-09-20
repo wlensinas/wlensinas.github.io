@@ -1,2 +1,2 @@
-# recitales
-Repo para dejar las fechas y links de las bandas que nos gustan
+# Personal site
+This repo its for my personal stuff...
